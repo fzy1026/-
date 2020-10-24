@@ -1,2 +1,3 @@
-# -
-It reall hard to win.I tried 213 times and win 2 times.  : )
+# 抽卡人生
+一个肝到爆炸的游戏
+温馨提示：作者自己测试了100多次，但只赢了2次 : )
